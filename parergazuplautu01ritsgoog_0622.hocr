@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./parergazuplautu01ritsgoog_0622.png"; bbox 0 0 769 1223; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 225 411 462 428">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 225 411 462 428">
+     <span class='ocr_line' id='line_1_1' title="bbox 225 411 462 428; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 225 411 421 428; x_wconf 63' lang='lat' dir='ltr'>”malumno</span> <span class='ocrx_word' id='word_1_2' title='bbox 438 411 462 428; x_wconf 77' lang='grc' dir='ltr'>Χ-</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 292 475 411 479">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 292 475 411 479">
+     <span class='ocr_line' id='line_1_2' title="bbox 292 475 411 479; baseline 0 0"><span class='ocrx_word' id='word_1_3' title='bbox 292 475 411 479; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 232 549 451 566">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 232 549 451 566">
+     <span class='ocr_line' id='line_1_3' title="bbox 232 549 451 566; baseline 0 0"><span class='ocrx_word' id='word_1_4' title='bbox 232 549 263 566; x_wconf 82' lang='lat' dir='ltr'>DE</span> <span class='ocrx_word' id='word_1_5' title='bbox 276 549 365 566; x_wconf 78' lang='lat' dir='ltr'>GEMINO</span> <span class='ocrx_word' id='word_1_6' title='bbox 379 549 451 566; x_wconf 77' lang='lat' dir='ltr'>Exrrv</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 72 625 614 658">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 72 625 614 658">
+     <span class='ocr_line' id='line_1_4' title="bbox 72 625 614 658; baseline 0 -8"><span class='ocrx_word' id='word_1_7' title='bbox 72 625 271 651; x_wconf 82' lang='lat' dir='ltr'>ANDRIAE</span> <span class='ocrx_word' id='word_1_8' title='bbox 305 626 614 658; x_wconf 66' lang='lat' dir='ltr'><strong>TERENTIANAE.</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
